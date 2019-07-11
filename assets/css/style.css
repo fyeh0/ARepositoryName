@@ -296,9 +296,9 @@ header{
 	color: #fff;
 }
 
-.port figcaption span:before {
+/* .port figcaption span:before {
 	content: 'by ';
-}
+} */
 
 .port figcaption a {
 	text-align: center;
@@ -521,9 +521,10 @@ header{
     background-size: 100% 200%;
 }
 
-.social-icons a:hover {
+/* .social-icons a:hover {
     background-position: 0px -50px;
-}
+} */
+
 .github{
 	background-image: url(../images/github.png);
 }
